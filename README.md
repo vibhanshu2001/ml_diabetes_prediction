@@ -4,9 +4,9 @@ This project aims to predict diabetes outcomes using machine learning techniques
 ## Libraries Used
 The following libraries were used in this project:
 
-pandas: for data manipulation and analysis
-numpy: for numerical computation
-sklearn.preprocessing: for data preprocessing
-sklearn.model_selection: for splitting the dataset into training and testing sets
-sklearn.svm: for building a Support Vector Machine (SVM) classifier
-sklearn.metrics: for evaluating the performance of the classifier
+pandas: for data manipulation and analysis <br/>
+numpy: for numerical computation<br/>
+sklearn.preprocessing: for data preprocessing<br/>
+sklearn.model_selection: for splitting the dataset into training and testing sets<br/>
+sklearn.svm: for building a Support Vector Machine (SVM) classifier<br/>
+sklearn.metrics: for evaluating the performance of the classifier<br/>
